@@ -1,0 +1,6 @@
+string compression
+step1 : we have to go traversal (for loop)
+step2 : have a counting variable (should initialize with 1)
+step3 : we should stop when we encounter difference in character
+step4 : at the same time we have to append the count with result with the string  
+step5 : after the result print the iteration
