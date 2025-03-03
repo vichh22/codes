@@ -20,8 +20,8 @@ public class Main
     }
     public static void main(String[]args)
     {
-        int []nums ={2,3,12,56,9,34,99,102,32};
-        selection(8,nums);
+        int []nums ={2,3,12,56,9,34,99,102};
+        selection(7,nums);
         for (int a:nums){
             System.out.print(a+ " ");
         }
